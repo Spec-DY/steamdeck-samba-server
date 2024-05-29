@@ -1,6 +1,6 @@
 <h1 align="center">SteamDeck Samba Server</h1>
 <p align="center">
-  <i>Execute one line code and share your SteamDeck with local network using smb protocol , allowing you to easily view and transfer SteamDeck files from or to your device.</i>
+  <b>Execute one line code and share your SteamDeck with local network using smb protocol , allowing you to easily view and transfer SteamDeck files from or to your device.</b>
   <br/>
   <br/>
   <img src="pic/windowsscreenshot.png">
