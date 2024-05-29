@@ -4,7 +4,7 @@
   <br/>
   <br/>
   <div style="color: grey">
-    <img src="pic/windowsscreenshot.png" alt="Windows File Explorer Screenshot">
+  <img src="pic/windowsscreenshot.png" alt="Windows File Explorer Screenshot">
   <br/>
     <em>Windows File Explorer</em>
   </div>
