@@ -19,7 +19,7 @@ To run the script, simply insert the following command in your SteamDeck termina
 
 This will automatically download and run the script.sh file from the GitHub repository, which will install and configure the Samba server on your SteamDeck.
 
-This script allows sharing multiple directories based on your preferences. During the installation process, you will need to enter the path of the directory you intend to share, for example: `/home/deck/Applications/`. It will ask if you want to add more folders to share. Press `enter` without input and it will share the entire `/home/` directory for quick setup.
+This script allows sharing multiple directories based on your preferences. During the installation process, you can enter the path of the directory you intend to share, for example: `/home/deck/Applications/`. It will ask if you want to add more folders to share. Press `enter` without input and it will share the entire `/home/` directory for quick setup.
 
 ## Usage
 
