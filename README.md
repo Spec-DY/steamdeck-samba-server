@@ -1,16 +1,10 @@
 <h1 align="center">SteamDeck Samba Server</h1>
 <p align="center">
-  <i>This is a simple script that sets up a Samba server on your SteamDeck, allowing you to easily transfer files to and from your device.</i>
+  <i>Execute one line code and share your SteamDeck with local network using smb protocol , allowing you to easily view and transfer SteamDeck files from or to your device.</i>
   <br/>
+  <br/>It will look like this in Windows File Explorer:
+  <img src="pic/windowsscreenshot.png">
   <br/>
-  <br/>
-  <br/>
-  <a name="download button" href="https://github.com/Sped-DY/steamdeck-samba-server/releases/download/latest/samba.download"><img src="./docs/download_button.svg"  alt="Download steam-deck-samba-server" width="350px" style="padding-top: 15px;"></a>
-  <br/>
-  <br/>
-  <a href="./LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-0aa8d2?logo=opensourceinitiative&logoColor=fff" alt="License MIT">
-  </a>
 </p>
 
 ## Installation
