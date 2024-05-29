@@ -3,7 +3,7 @@
   <b>Execute one line code and share your SteamDeck with local network using smb protocol , allowing you to easily view and transfer SteamDeck files from or to your device.</b>
   <br/>
   <br/>
-  <div style="text-align: center; color: grey;">
+  <div style="center; color: grey;">
     <img src="pic/windowsscreenshot.png" alt="Windows File Explorer Screenshot">
   <br/>
     <em>Windows File Explorer</em>
